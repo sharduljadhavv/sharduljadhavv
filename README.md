@@ -30,6 +30,7 @@ clean secure REST APIs, scalable database design, and modern frontend interfaces
 
 **Cloud & Tools**
 - AWS (S3, EC2, ECS, Route53, Cloudfront, IAM)
+- Jenkins
 - Git & GitHub
 - Postman
 
