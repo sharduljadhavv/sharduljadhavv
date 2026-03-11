@@ -5,7 +5,7 @@ I build end-to-end web applications with a strong backend foundation,
 clean secure REST APIs, scalable database design, and modern frontend interfaces.
 
 ### 🧿 What I Do
-- Build scalable backend systems using Node.js & TypeScript
+- Build scalable backend systems using Node.js & TypeScript, Python, Java
 - Design and optimize relational databases with PostgreSQL & TypeORM
 - Develop REST APIs with proper authentication and role-based access
 - Create responsive frontend applications using React & Next.js
