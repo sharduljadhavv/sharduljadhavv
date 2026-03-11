@@ -1,5 +1,5 @@
 👋 Hi, I'm Shardul Jadhav  
-Software Engineer | Node.js | ReactJs | NextJs | TypeScript | PostgreSQL | AWS 
+Software Engineer | Node.js | TypeScript | React Native | NextJs | ReactJs | PostgreSQL | AWS 
 
 I build end-to-end web applications with a strong backend foundation,
 clean secure REST APIs, scalable database design, and modern frontend interfaces.
@@ -15,12 +15,14 @@ clean secure REST APIs, scalable database design, and modern frontend interfaces
 ### 🛠 Tech Stack
 
 **Frontend**
+- React Native
 - React.js
 - Next.js
-- HTML, CSS, JavaScript
 
 **Backend**
 - Node.js
+- Python
+- Java
 - TypeScript
 - Express
 
@@ -36,6 +38,7 @@ clean secure REST APIs, scalable database design, and modern frontend interfaces
 
 ## 📚 Currently Learning
 - Advanced Next.js features
+- Rust
 - DSA
 
 ## 📫 Connect With Me
