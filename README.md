@@ -6,7 +6,7 @@ clean secure REST APIs, scalable database design, and modern frontend interfaces
 
 ### 🧿 What I Do
 - Build scalable backend systems using Node.js & TypeScript, Python, Java
-- Design and optimize relational databases with PostgreSQL & TypeORM
+- Design and optimize relational databases with PostgreSQL, SQL
 - Develop REST APIs with proper authentication and role-based access
 - Create responsive frontend applications using React & Next.js
 - Integrate AWS services like S3 for secure media handling, end to end deployment on EC2 / ECS. 
